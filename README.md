@@ -21,3 +21,6 @@ World Happiness Report dataset including variables such as GDP per capita, socia
 
 ## Conclusion
 While economic prosperity is a key driver of happiness, it is not sufficient on its own to explain differences in well-being across countries. Social and institutional factors also play an important complementary role.
+
+## Status
+Completed as a first data analysis project.
